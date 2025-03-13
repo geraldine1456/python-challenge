@@ -15,8 +15,7 @@ This challenge not only enhances technical skills in Python programming, data ma
 The effort is supported by Bootcamp Tutor Sath for code debugging and Microsoft Copilot for additional debugging assistance.
 
 # Installation 
-git clone 
-
+git clone https://github.com/geraldine1456/python-challenge
 
 # Notes: 
 Run the Python scripts using the Git Bash terminal. Using the “Run” button from VS Code may give an error when loading the CSV files. This issue could be related to how the working directory is set when running the script. It’s recommended to use the terminal to ensure the scripts run correctly with the appropriate file paths.
