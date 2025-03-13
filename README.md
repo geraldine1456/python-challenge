@@ -1,6 +1,6 @@
-# python-challenge
+# PYTHON CHALLENGE
 
-DESCRIPTION: 
+# Description
 
 The Python Challenge involves analyzing two sets of data based on real-world situations: Financial Data (PyBank) and Election Data (PyPoll). The challenge aims to extract meaningful insights and perform detailed analyses on both datasets.
 
@@ -17,5 +17,5 @@ The effort is supported by Bootcamp Tutor Sath for code debugging and Microsoft 
 # Installation 
 git clone https://github.com/geraldine1456/python-challenge
 
-# Notes: 
+# Notes
 Run the Python scripts using the Git Bash terminal. Using the “Run” button from VS Code may give an error when loading the CSV files. This issue could be related to how the working directory is set when running the script. It’s recommended to use the terminal to ensure the scripts run correctly with the appropriate file paths.
